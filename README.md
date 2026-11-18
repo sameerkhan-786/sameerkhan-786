@@ -2,7 +2,7 @@
 ## About Me
 - BCA Student at **K.R. Mangalam University**, Gurugram (Batch 2026–29)
 - Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
-- Interested in: [coding]
+- Interested in: [AI Engineering]
 ## Technical Skills
 | Category | Technologies |
 |------------|-----------------------------------------------------|
